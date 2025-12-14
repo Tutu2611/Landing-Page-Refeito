@@ -1,0 +1,63 @@
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #333333;
+}
+
+header {
+  padding-left: 30px;
+}
+
+#page {
+  width: 95%;
+  margin: auto;
+  padding: 40px;
+  background-color: white;
+  border-radius: 28px;
+}
+
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+p {
+  font-size: 16px;
+}
+
+.Headline {
+  padding-top: 64px;
+  font-size: 16px;
+}
+
+h1 {
+  padding-bottom: 40px;
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+
+#list {
+  padding-top: 64px;
+  padding-bottom: 80px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+footer {
+text-align: center;
+}
+
+footer img {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
